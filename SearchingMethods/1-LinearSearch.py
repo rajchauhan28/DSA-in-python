@@ -1,6 +1,6 @@
 arr = [7, 3, 5, 6, 2, 1, 34, 4,5, 4,56, 567, 7, 67, 5, 7, 3, 5, 6, 2, 1, 34, 4,5, 4,56, 567, 7, 67, 5]
 
-def linearsearch(arr: list, item: int):
+def linearsearch(arr: list, item: int) -> str:
     """
     Worst Case: O(N)
     """
